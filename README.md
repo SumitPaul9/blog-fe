@@ -1,4 +1,4 @@
-Frontend for Blog
+Frontend of blog created using React, React Hooks, Redux, react-router-dom, SaSS, Bootstrap , axios
 
 if you want to checkout backend of this blog you can follow the link
 https://github.com/sumitpauljindal/Blog
